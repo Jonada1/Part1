@@ -1,4 +1,4 @@
-# PART A: HTML + CSS
+# Real Estate HTML + CSS template
 
 I choose to use Sass because it helps me by keeping the style sheets concise. It provides variables as a way to store information that I want to reuse throughout my style sheet. Also it don’t repeat similar CSS statements throughout the project.
 
